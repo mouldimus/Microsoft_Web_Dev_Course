@@ -10,10 +10,9 @@ In here I'll do my best to explain some concepts taught to me by this free cours
    - [Installing and IDE](#installing-an-ide)
    - [Installing IDE Extensions](#installing-ide-extensions)
    - [Installing Node.js](#installing-nodejs)
+2. [Creating your first application](#creating-your-first-application)
 
 ## Building your toolbox
-
-[Back](#)
 
 ### Installing an IDE
 
@@ -63,3 +62,27 @@ https://github.com/nvm-sh/nvm
 #### For Windows users
 
 https://github.com/coreybutler/nvm-windows
+
+## Creating your first application
+
+### Creating the file
+
+First we'll need to create a project directory, for our project to live in.
+
+```bash
+mkdir Microsoft_Web_Dev_Course
+```
+
+Then, we'll need to create a project file. We can use the VSCode command `code`.
+
+```bash
+code Microsoft_Web_Dev_Course/index.js
+```
+
+Alternatively...
+
+```bash
+cd Microsoft_Web_Dev_Course; touch index.js;
+```
+
+### `console.log()`
