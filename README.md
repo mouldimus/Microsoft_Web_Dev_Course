@@ -13,7 +13,11 @@ In here I'll do my best to explain some concepts taught to me by this free cours
 
 ## Building your toolbox
 
+[Back](#)
+
 ### Installing an IDE
+
+[Back](#)
 
 Watch part 1 here: [Building your toolbox [4 of 51]](https://www.youtube.com/watch?v=69WJeXGBdxg)
 
@@ -31,6 +35,8 @@ A code editor is an essential tool to any developers toolbox. It helps the devel
 
 ### Installing IDE Extensions
 
+[Back](#)
+
 An extension is a sub-program that is designed to be easily attached to a program to change the main program in some way. In this case we will be adding a couple of extensions to VSCode, in order to make our lives easier.
 
 Those Extensions are:
@@ -43,6 +49,8 @@ Those Extensions are:
   Avoid reduntant typing with shortcuts to most used code fragments.
 
 ### Installing Node.js
+
+[Back](#)
 
 You'll also need to install node.js. Node.js is a JavaScript runtime, which means you can use it to run JavaScript Programs in the terminal. It'll also help you to create and run JavaScript applications inside the browser.
 
