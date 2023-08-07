@@ -15,7 +15,9 @@ In here I'll do my best to explain some concepts taught to me by this free cours
 
 ### Installing an IDE
 
-Watch the video here: [Building your toolbox](https://www.youtube.com/watch?v=69WJeXGBdxg)
+Watch part 1 here: [Building your toolbox [4 of 51]](https://www.youtube.com/watch?v=69WJeXGBdxg)
+
+Watch part 2 here: [Building your toolbox [5 of 51]](https://www.youtube.com/watch?v=9nKTxtv6D1w)
 
 In the video he explains the need for a code editor like [VSCode](https://code.visualstudio.com).
 
